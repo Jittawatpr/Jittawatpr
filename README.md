@@ -16,12 +16,6 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
 - 👀 I'm interested in **Data Career ( DE DS DA ) , Machine Learning , MERN Stack , SQL**
 
 
-- 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
-  
-
-- ⌨️ I regularly write articles on <b>[LinkedIn](https://www.linkedin.com/in/jittawatp/)</b>  
-  
-
 - 🚀 Contact me here  <b>[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDCzLtqQJzXzpwhBkFCknlftzcMTHvCnVHDqSgBBFSWxktnnFLhTsvnxGcMTwHZjmnbQrS)</b>
 
 ## LANGUAGE AND TOOLS

@@ -40,8 +40,6 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
   <img width="12" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="30" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="tableau logo" width="30px" height="30px" />

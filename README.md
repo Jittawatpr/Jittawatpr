@@ -4,7 +4,7 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
 
 💎 Information Technology and Infomarion , Computer Science at <b>[Bangkok University](https://www.bu.ac.th/th/)</b> <b>2021 - Present</b>
 
-⭐️ My next goal for 2024 is  <b>Data Analyst or Data Science Internship , Techsauce Volunteer</b>
+⭐️ My next goal for 2025 is  <b>Data Analyst Internship</b>
 
 
 ## PASSION AND CONTACT

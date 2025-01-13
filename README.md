@@ -2,7 +2,7 @@
 Hi! I'm **JP** studying in major computer science and will start learning to become **"Data Analyst"** and improve my soft skills such as logic, presentation, critical thinking, and gain some experience from real projects and volunteer.<br>
 <br>
 
-💎 Information Technology and Infomarion , Computer Science at <b>[Bangkok University](https://www.bu.ac.th/th/)</b> <b>2021 - Present</b>
+💎 Information Technology and Infomation , Computer Science at <b>[Bangkok University](https://www.bu.ac.th/th/)</b> <b>2021 - Present</b>
 
 ⭐️ My next goal for 2025 is  <b>Data Analyst Internship</b>
 
